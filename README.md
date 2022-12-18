@@ -1,6 +1,10 @@
 # clean_architecture
 
-Clean Architecture
+Clean Architecture Example
+
+This Example Contains the Data and domain layers representation as a microservice.
+
+Presentation Layer is in the initial app
 
 ## Getting Started
 
