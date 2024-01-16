@@ -2,7 +2,7 @@
 class APIEndPoints {
   /// ASN URL
   static String asnBetaUrl = '';
-  static String asnUrl = 'http://ec2-18-191-6-94.us-east-2.compute.amazonaws.com';
+  static String asnUrl = '';
 
   ///user endpoints
   static String login = "/user/login";
