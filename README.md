@@ -1,10 +1,8 @@
 # clean_architecture
 
-Clean Architecture Example
+A combination of Clean Architecture with MVVM Example
 
-This Example Contains the Data and domain layers representation as a microservice.
-
-Presentation Layer is presented in a separate project. It can be added also here under a separate views layer.
+This is a snippet from an app showing the app architecture used .
 
 For confidentiality, this is a code snippet from the initial app.
 
